@@ -1,0 +1,331 @@
+[
+  {
+    "id": "fHBgVg8VC",
+    "name": "Sizes",
+    "itemCount": 26,
+    "variables": [
+      {
+        "id": "Hj8ZI4BM4",
+        "key": "$control__name",
+        "name": "Name",
+        "type": "string"
+      },
+      {
+        "id": "wlcNJFK7W",
+        "key": "$control__title",
+        "name": "Title",
+        "type": "string"
+      },
+      {
+        "id": "afw8SDSDw",
+        "key": "$control__slug",
+        "name": "Slug",
+        "type": "string"
+      },
+      {
+        "id": "fHBgVg8VC-id",
+        "key": "$control__id",
+        "name": "id",
+        "type": "string"
+      }
+    ]
+  },
+  {
+    "id": "wWC8EGMFo",
+    "name": "Shoes",
+    "itemCount": 3,
+    "variables": [
+      {
+        "id": "wjbVR4laR",
+        "key": "$control__slug",
+        "name": "Slug",
+        "type": "string"
+      },
+      {
+        "id": "X3CtE80s9",
+        "key": "$control__product_title",
+        "name": "Product Title",
+        "type": "string"
+      },
+      {
+        "id": "TJaILyAOH",
+        "name": "Product Details",
+        "type": "divider"
+      },
+      {
+        "id": "L0XvF6Czl",
+        "key": "$control__price",
+        "name": "Price",
+        "type": "number"
+      },
+      {
+        "id": "ULM6scxx_",
+        "key": "$control__tagline",
+        "name": "Tagline",
+        "type": "string"
+      },
+      {
+        "id": "uEVRVrN3G",
+        "key": "$control__description",
+        "name": "Description",
+        "type": "richtext"
+      },
+      {
+        "id": "NF5HioKUo",
+        "key": "$control__best_seller",
+        "name": "Best Seller",
+        "type": "boolean"
+      },
+      {
+        "id": "nSPJuhtcH",
+        "key": "$control__categories",
+        "name": "Categories",
+        "type": "multi",
+        "collection": "Metadata"
+      },
+      {
+        "id": "vXC_2Qw_g",
+        "key": "$control__gender",
+        "name": "Gender",
+        "type": "multi",
+        "collection": "Metadata"
+      },
+      {
+        "id": "WdGHyjYPS",
+        "key": "$control__collection",
+        "name": "Collection",
+        "type": "multi",
+        "collection": "Metadata"
+      },
+      {
+        "id": "WpJ3gRydg",
+        "key": "$control__checkout_link",
+        "name": "Checkout Link",
+        "type": "link"
+      },
+      {
+        "id": "Lxp3xzrKx",
+        "name": "Commerce",
+        "type": "divider"
+      },
+      {
+        "id": "yWwqsbiy3",
+        "name": "Configurations",
+        "type": "divider"
+      },
+      {
+        "id": "fc8SWJvvh",
+        "key": "$control__shoe_sizes",
+        "name": "Shoe Sizes",
+        "type": "multi",
+        "collection": "Sizes"
+      },
+      {
+        "id": "rPQCyIqtZ",
+        "key": "$control__available_colors",
+        "name": "Available Colors",
+        "type": "multi",
+        "collection": "Shoes"
+      },
+      {
+        "id": "Hjia3212X",
+        "name": "Product Images",
+        "type": "divider"
+      },
+      {
+        "id": "ENbbVp8vc",
+        "key": "$control__total_product_images",
+        "name": "Total Product Images",
+        "type": "number"
+      },
+      {
+        "id": "cxkHsOrjz",
+        "key": "$control__primary_thumbnail",
+        "name": "Primary Thumbnail",
+        "type": "image"
+      },
+      {
+        "id": "yp6exRXCn",
+        "key": "$control__secondary_thumbnail",
+        "name": "Secondary Thumbnail",
+        "type": "image"
+      },
+      {
+        "id": "yYNW6Sz6Q",
+        "key": "$control__product_image_1",
+        "name": "Product Image 1",
+        "type": "image"
+      },
+      {
+        "id": "BVHw1asXj",
+        "key": "$control__product_image_2",
+        "name": "Product Image 2",
+        "type": "image"
+      },
+      {
+        "id": "txBAYRkX5",
+        "key": "$control__product_image_3",
+        "name": "Product Image 3",
+        "type": "image"
+      },
+      {
+        "id": "MmZDiJKCx",
+        "key": "$control__product_image_4",
+        "name": "Product Image 4",
+        "type": "image"
+      },
+      {
+        "id": "bRLi7BvJJ",
+        "key": "$control__product_image_5",
+        "name": "Product Image 5",
+        "type": "image"
+      },
+      {
+        "id": "YFdaPgYa5",
+        "key": "$control__product_image_6",
+        "name": "Product Image 6",
+        "type": "image"
+      },
+      {
+        "id": "kEAdWZ6bN",
+        "key": "$control__product_image_7",
+        "name": "Product Image 7",
+        "type": "image"
+      },
+      {
+        "id": "MyF9IreYr",
+        "key": "$control__product_image_8",
+        "name": "Product Image 8",
+        "type": "image"
+      },
+      {
+        "id": "ho7bJj83Y",
+        "key": "$control__product_image_9",
+        "name": "Product Image 9",
+        "type": "image"
+      },
+      {
+        "id": "eDZ42NszQ",
+        "key": "$control__product_image_10",
+        "name": "Product Image 10",
+        "type": "image"
+      },
+      {
+        "id": "NPrhDQmfw",
+        "key": "$control__product_family",
+        "name": "Product Family",
+        "type": "string"
+      },
+      {
+        "id": "y8BtQU6TB",
+        "key": "$control__color_name",
+        "name": "Color Name",
+        "type": "string"
+      },
+      {
+        "id": "Jfl9icq_v",
+        "key": "$control__color_value",
+        "name": "Color Value",
+        "type": "color"
+      },
+      {
+        "id": "K4g_NcsnI",
+        "key": "$control__product_code",
+        "name": "Product Code",
+        "type": "string"
+      },
+      {
+        "id": "HrkB1LBLk",
+        "key": "$control__commerce_product_id",
+        "name": "Commerce Product ID",
+        "type": "string"
+      },
+      {
+        "id": "x4LyXW_v4",
+        "key": "$control__default_commerce_variant_id",
+        "name": "Default Commerce Variant ID",
+        "type": "string"
+      },
+      {
+        "id": "FOviG1_SF",
+        "key": "$control__active",
+        "name": "Active",
+        "type": "boolean"
+      },
+      {
+        "id": "wWC8EGMFo-id",
+        "key": "$control__id",
+        "name": "id",
+        "type": "string"
+      }
+    ]
+  },
+  {
+    "id": "N2cLBMuUA",
+    "name": "Metadata",
+    "itemCount": 9,
+    "variables": [
+      {
+        "id": "ATZXIWoya",
+        "key": "$control__title",
+        "name": "Title",
+        "type": "string"
+      },
+      {
+        "id": "ATsOqqDj8",
+        "key": "$control__slug",
+        "name": "Slug",
+        "type": "string"
+      },
+      {
+        "id": "M6EPg92bX",
+        "key": "$control__type",
+        "name": "Type",
+        "type": "option"
+      },
+      {
+        "id": "N2cLBMuUA-id",
+        "key": "$control__id",
+        "name": "id",
+        "type": "string"
+      }
+    ]
+  },
+  {
+    "id": "QOgS8yO19",
+    "name": "Business",
+    "itemCount": 45,
+    "variables": [
+      {
+        "id": "wilSgI4j3",
+        "key": "$control__document_type",
+        "name": "Document Type",
+        "type": "option"
+      },
+      {
+        "id": "hWqyOEP_3",
+        "key": "$control__title",
+        "name": "Title",
+        "type": "string"
+      },
+      {
+        "id": "uQ2JvQyPw",
+        "key": "$control__slug",
+        "name": "Slug",
+        "type": "string"
+      },
+      {
+        "id": "cGT5udmtH",
+        "key": "$control__content",
+        "name": "Content",
+        "type": "richtext"
+      },
+      {
+        "id": "QOgS8yO19-id",
+        "key": "$control__id",
+        "name": "id",
+        "type": "string"
+      }
+    ]
+  }
+]
