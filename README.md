@@ -16,8 +16,6 @@ This repository contains the custom React code, code overrides, CMS notes, and r
 
 <video src="https://github.com/user-attachments/assets/d969615f-9b88-48bd-a37d-8b6ddb4130d3" controls width="100%"></video>
 
-If the embedded player does not load, open the compressed walkthrough video here: [`docs/media/homepage-walkthrough.mp4`](./docs/media/homepage-walkthrough.mp4)
-
 ### Social Preview
 
 ![Stride social preview](./docs/media/stride-social-preview.png)
