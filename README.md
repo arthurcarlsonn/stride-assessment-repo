@@ -12,8 +12,15 @@ This repository contains the custom React code, code overrides, CMS notes, and r
 
 ## Review Media
 
-- Homepage walkthrough: [`docs/media/homepage-walkthrough.mp4`](./docs/media/homepage-walkthrough.mp4)
-- Social preview image: [`docs/media/stride-social-preview.png`](./docs/media/stride-social-preview.png)
+### Homepage Walkthrough
+
+[![Homepage walkthrough preview](./docs/media/homepage-walkthrough-preview.jpg)](./docs/media/homepage-walkthrough.mp4)
+
+Watch the compressed walkthrough video: [`docs/media/homepage-walkthrough.mp4`](./docs/media/homepage-walkthrough.mp4)
+
+### Social Preview
+
+![Stride social preview](./docs/media/stride-social-preview.png)
 
 The walkthrough video is a compressed review copy so it can live directly in the GitHub repository without requiring Git LFS.
 
