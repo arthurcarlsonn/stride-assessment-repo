@@ -10,6 +10,13 @@ This repository contains the custom React code, code overrides, CMS notes, and r
 - Main pages: `/`, `/shoes/:Shoes`, `/shipping`, `/returns`, `/privacy`, `/terms-conditions`
 - Custom code: [`src/framer`](./src/framer)
 
+## Review Media
+
+- Homepage walkthrough: [`docs/media/homepage-walkthrough.mp4`](./docs/media/homepage-walkthrough.mp4)
+- Social preview image: [`docs/media/stride-social-preview.png`](./docs/media/stride-social-preview.png)
+
+The walkthrough video is a compressed review copy so it can live directly in the GitHub repository without requiring Git LFS.
+
 ## What Was Built
 
 The site is organized around a simple product story: one Stride sneaker model, presented through three colorways. I reduced the navigation around that idea so the experience feels more like a focused launch and less like an unfinished multi-category store.
@@ -145,4 +152,3 @@ docs/
 - Expand the CMS into product families, categories, gender collections, size availability, related products, and campaign content.
 - Add analytics events for colorway changes, product media opens, add-to-cart, cart quantity changes, and checkout intent.
 - Run one final published-site performance pass after asset compression.
-
